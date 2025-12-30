@@ -92,7 +92,6 @@ You are free to use, modify, and distribute this project.
 👨‍💻 Author   
    Krushik
 
-📧 Email: your-email@example.com  
 🌐 GitHub: https://mrkrushik.github.io/Bizzpage-website/
 
 ⭐ If you like this project, don't forget to star the repository!
