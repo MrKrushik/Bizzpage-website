@@ -56,22 +56,22 @@ Perfect for agencies, startups, corporate websites, and portfolios.
 
 ## 📂 Project Structure
 
-BizPage/
-│
-├── css/
-│ └── style.css
-├── js/
-│ └── bootstrap.bundle.min.js
-├── images/
-│ ├── banner/
-│ ├── portfolio/
-│ ├── team/
-│ └── icons/
-├── index.html
-└── README.md
+BizPage/  
+│   
+├── css/   
+│ └── style.css   
+├── js/    
+│ └── bootstrap.bundle.min.js    
+├── images/   
+│ ├── banner/    
+│ ├── portfolio/   
+│ ├── team/    
+│ └── icons/   
+├── index.html   
+└── README.md   
 
-yaml
-Copy code
+yaml   
+Copy code   
 
 ---
 
